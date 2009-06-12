@@ -6,8 +6,8 @@
 quixo {
   board(:id => "board"){
     blocks {
-      25.times do
-        indiv_block :player =>"X"
+      25.times do |i|
+        indiv_block :text => i
       end
     }
   }

@@ -18,7 +18,6 @@ board {
   background_color :black
   padding 20
   rounded_corner_radius 280
-  
 }
 
 blocks {
